@@ -28,7 +28,7 @@ To get a better learning experience we recommend to install the
 
 ![Screenshot of 007-booleans](./007-booleans.patch.png)
 
-In previous lessons we mostly dealt with numbers adjusting counter step and clock interval. Now let's talk about _booleans_. They have only who possible values:
+In previous lessons we mostly dealt with numbers adjusting counter step and clock interval. Now let's talk about _booleans_. They have only two possible values:
 
 - _True_ (aka logic one, high signal)
 - _False_ (aka logic zero, low signal)
